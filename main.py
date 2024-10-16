@@ -43,7 +43,7 @@ def main():
     SkinThickness = st.text_input('Enter Skin Thickness')
     Insulin = st.text_input('Enter Insulin Level')
     BMI = st.text_input('Enter BMI')
-    DiabetesPedigreeFunction = st.text_input('Enter DEabetes Pedigree Function Value')
+    DiabetesPedigreeFunction = st.text_input('Enter Diabetes Pedigree Function Value')
     Age = st.text_input('Enter your text age')
 
     
